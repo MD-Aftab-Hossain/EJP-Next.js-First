@@ -15,7 +15,7 @@ export const config = {
   matcher: [
     '/add/:path*',
     '/favorite/:path*',
-    '/add/:path*',
+    '/favorite/:path*',
     '/explore/:id/:path*'
   ],
 };
