@@ -54,7 +54,6 @@ The platform ensures clean UI, smooth animations, protected routing, and optimiz
 - Credentials login  
 - Fully protected routes (Add, Manage, Favorite, Explore/[id])  
 - Secure redirect logic  
-- JWT session handling  
 
 ### 🎨 Artwork & Content Management
 - Add new items (form + validation)  
