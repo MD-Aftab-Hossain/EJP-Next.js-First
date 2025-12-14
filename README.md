@@ -8,6 +8,16 @@ The platform focuses on clean UI, consistent spacing, and a fully responsive use
 
 ---
 
+## 🚀 Live Demo
+
+🔗 **Live Website:** https://ejp-next-js-first.vercel.app/ 
+
+🔗 **GitHub Repository ( CLIENT ):** https://github.com/mohammad-aftab-hossain-mozumder/EJP-Next.js-First.git
+
+🔗 **GitHub Repository ( SERVER ):**  https://github.com/mohammad-aftab-hossain-mozumder/EJP--Next.js-SERVER-first.git
+
+---
+
 ## 📁 Route Summary
 
 ### **Public Routes**
@@ -41,11 +51,6 @@ The platform ensures clean UI, smooth animations, protected routing, and optimiz
 
 ---
 
-## 🚀 Live Demo
-🔗 **Live Website:** https://ejp-next-js-first.vercel.app/  
-🔗 **GitHub Repository:** https://github.com/MD-Aftab-Hossain/EJP-Next.js-First
-
----
 
 ## 📌 Features Overview
 
